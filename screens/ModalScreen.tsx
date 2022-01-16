@@ -33,4 +33,3 @@ const styles = StyleSheet.create({
     width: '80%',
   },
 });
-// hahah slet
